@@ -70,7 +70,7 @@ Take a look at our [website](https://dynamoosejs.com) for information about how 
 ### Branch Strategy
 
 Below you will find the current branch strategy for the project. Work taking place on the branches listed below might be further ahead than the versions on NPM. All documentation links found below will also be reflective of the published version on NPM. If you would like to live dangerously and run non-released versions, you can run `npm install dynamoose/dynamoose#BRANCH` (replacing `BRANCH` with the branch listed below). You will also find the most up-to-date documentation in the `docs` folder of the branch.
-
+dd
 | Branch | Version | NPM Tag | Links |
 | --- | --- | --- | --- |
 | [`main`](https://github.com/dynamoose/dynamoose/tree/main) | 3.x.x |   | - [Documentation](https://dynamoose.pages.dev) |
